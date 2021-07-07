@@ -2,7 +2,7 @@
 
 ## O mnie
 
-Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyka na Politechnice Gdańskiej.
+Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyka na Politechnice Gdańskiej. Interesuję się szerokopojętym testowaniem oprogramowania. Aktualnie kształcę się samodzielnie, codziennie rozwijając swoją wiedzę na temat testowania, a także narzędzi w nim używanych. Doświadczenie zdobywam głównie na stronach crowdtestingowych takich jak TesterWork i uTest. Do tej pory, podczas testów, udało mi się zaraportować około 400 błędów i wykonać około 150 przypadków testowych. Na platformie TesterWork mam najwyższą możliwą rangę czyli Elite, natomiast na uTest mam rangę Silver. W tym miejscu chciałbym zaprezentować swoje umiejętności i zdobytą do tej pory wiedzę.
 
 
 ## Narzędzia używane w testowaniu:
@@ -24,6 +24,7 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 * Raportowanie błędów
 * Testowanie eksploracyjne
 * Testy regresjne
+* Testy funkcjonalne
 
 ## Przeczytane książki:
 
