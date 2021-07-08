@@ -45,9 +45,8 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 * [testerzy.pl](http://testerzy.pl)
 * [testuj.pl](http://testuj.pl)
 
-## Moje projekty
+## Raporty o błędach
 
-* Bug Reports
 * Test Reports
 * Test Cases
 * Test Scenarios
