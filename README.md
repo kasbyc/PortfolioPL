@@ -47,6 +47,3 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 
 ## Raporty o błędach
 
-* Test Reports
-* Test Cases
-* Test Scenarios
