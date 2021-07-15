@@ -26,6 +26,12 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 * Testy regresjne
 * Testy funkcjonalne
 
+## Projekty JIRA (w darmowej wersji nie można ustawić publicznego projektu)
+
+
+* [ReebokPL](https://drive.google.com/file/d/1HibHueC0pLD7bVOrLKIGPs0_QzyXBVOa/view?usp=sharing)
+
+
 ## Przeczytane książki:
 
 
@@ -45,8 +51,7 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 * [testerzy.pl](http://testerzy.pl)
 * [testuj.pl](http://testuj.pl)
 
-## Projekty JIRA (w darmowej wersji nie można ustawić publicznego projektu)
-* [ReebokPL](https://drive.google.com/file/d/1HibHueC0pLD7bVOrLKIGPs0_QzyXBVOa/view?usp=sharing)
+
 
 
 
