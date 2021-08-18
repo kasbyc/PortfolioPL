@@ -32,8 +32,8 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 * [ReebokPL](https://drive.google.com/file/d/1HibHueC0pLD7bVOrLKIGPs0_QzyXBVOa/view?usp=sharing)
 
 
-## Przykładowe raporty bugów
-
+## Przykładowe zgłoszenia błędów
+* [Raporty błędów](https://drive.google.com/file/d/16zy4OaYLsKxQnKrtONnqeT2nIURycuyg/view?usp=sharing)
 
 ## Przeczytane książki
 
