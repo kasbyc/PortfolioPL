@@ -56,7 +56,7 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 * [testerzy.pl](http://testerzy.pl)
 * [testuj.pl](http://testuj.pl)
 
-
+do wywalenia bedzie to i elo hehe
 
 
 
