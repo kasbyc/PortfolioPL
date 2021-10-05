@@ -19,12 +19,14 @@ Nazywam się Kasper Byczyński. Jestem inżynierem kierunku Automatyka i Robotyk
 
 * SQL
 * C++
+* GIT
 * Testowanie manualne
 * Tworzenie scenariuszy testowych
 * Raportowanie błędów
 * Testowanie eksploracyjne
 * Testy regresjne
 * Testy funkcjonalne
+
 
 ## Projekty JIRA (w darmowej wersji nie można ustawić publicznego projektu)
 
